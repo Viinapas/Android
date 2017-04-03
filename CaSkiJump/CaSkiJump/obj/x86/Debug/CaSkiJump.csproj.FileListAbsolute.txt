@@ -1,0 +1,4 @@
+D:\EKOODI\CaSkiJump\CaSkiJump\bin\Debug\CaSkiJump.exe
+D:\EKOODI\CaSkiJump\CaSkiJump\bin\Debug\CaSkiJump.pdb
+D:\EKOODI\CaSkiJump\CaSkiJump\obj\x86\Debug\CaSkiJump.exe
+D:\EKOODI\CaSkiJump\CaSkiJump\obj\x86\Debug\CaSkiJump.pdb

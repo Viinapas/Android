@@ -1,0 +1,38 @@
+
+Hypyn pituus ( txb listaan)
+
+Hypyn pituus lasketaan pituuspisteillä ( K-pisteenylitys Suurmäessä tuo automaatisesti 60 p) + lisäpisteet 1,8 pist /metri
+
+Hyppyyn tulee pituuspisteiden lisäksi tyylipisteet.
+
+Tyylipisteet 5 tuomaria. antaa pisteet välillä 10p -20p niin että paras ja heikoin tulos jää pois = 3 tuomarin pisteet 
+jäävät tulokseen.
+
+Esimerkki: Hyppääjä A saa tuomareilta tyylipisteet kerran 18, kaksi kertaa 18,5 ja kaksi kertaa 19.
+
+Heikoin (18) ja paras (19) pistemäärä poistetaan, joten tyylipisteet ovat: 18,5 + 18,5 + 19 = 56. Tuulihyvitys/-vähennys
+
+Kunkin hypyn aikana tuuli mitataan viidestä kohdasta, joiden avulla lasketaan keskiarvo tuulen suunnalle
+ja voimakkuudelle. 
+
+Hyppääjälle annetaan takatuulesta hyvitysmetrejä ja vastatuulesta puolestaan tehdään vähennyksiä. 
+Vähennyksen tai hyvityksen kokoon vaikuttavat tuulen voimakkuus ja mäen K-piste seuraavan kaavan mukaan:
+
+Tuulen vaikutus hypyn pituuteen = Tuulen voimakkuuden keskiarvo x (K-piste - 36)/20
+
+Esimerkki: Hyppääjä A:n 124 metrin hypyn aikana puhalsi 1,4 metrin takatuuli. 
+Hän saa siis hyvitysmetrejä seuraavanlaisesti: 1,4 x (116 - 36)/20 = 5,6 metriä joka 
+
+PISTEINÄ LASKETAAN 1,8*5,5=9,9 PISTETTÄ
+
+
+LÄHTÖLAVA JA SEN VAIKUTUS
+
+TEHDÄÄN ESIM. boxi,jossa aloituslava ja aloituslava +luku(lava) TAI aloituslava -luku(lava)
+
+
+Esimerkki: Hyppääjä A lähtee suoritukseensa 1,4 metriä ylempää kuin mistä kilpailu aloitettiin. 
+Tällöin hänen hypyn pituudesta vähennetään 1,4 x 5 metriä = 7 metriä. Pisteinä se on 1,8 x 7 = 12,6.
+
+
+

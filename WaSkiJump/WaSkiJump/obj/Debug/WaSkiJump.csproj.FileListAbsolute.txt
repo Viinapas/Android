@@ -1,0 +1,9 @@
+D:\dev\WaSkiJump\WaSkiJump\bin\Debug\WaSkiJump.exe.config
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.csprojResolveAssemblyReference.cache
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.MainForm1.resources
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.Properties.Resources.resources
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.csproj.GenerateResource.Cache
+D:\dev\WaSkiJump\WaSkiJump\bin\Debug\WaSkiJump.exe
+D:\dev\WaSkiJump\WaSkiJump\bin\Debug\WaSkiJump.pdb
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.exe
+D:\dev\WaSkiJump\WaSkiJump\obj\Debug\WaSkiJump.pdb

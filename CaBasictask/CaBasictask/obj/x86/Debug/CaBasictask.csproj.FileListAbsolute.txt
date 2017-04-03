@@ -1,0 +1,4 @@
+D:\EKOODI\CaBasictask\CaBasictask\bin\Debug\CaBasictask.exe
+D:\EKOODI\CaBasictask\CaBasictask\bin\Debug\CaBasictask.pdb
+D:\EKOODI\CaBasictask\CaBasictask\obj\x86\Debug\CaBasictask.exe
+D:\EKOODI\CaBasictask\CaBasictask\obj\x86\Debug\CaBasictask.pdb

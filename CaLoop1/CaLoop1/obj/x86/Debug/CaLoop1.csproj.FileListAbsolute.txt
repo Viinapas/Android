@@ -1,0 +1,4 @@
+D:\EKOODI\CaLoop1\CaLoop1\bin\Debug\CaLoop1.exe
+D:\EKOODI\CaLoop1\CaLoop1\bin\Debug\CaLoop1.pdb
+D:\EKOODI\CaLoop1\CaLoop1\obj\x86\Debug\CaLoop1.exe
+D:\EKOODI\CaLoop1\CaLoop1\obj\x86\Debug\CaLoop1.pdb

@@ -1,0 +1,4 @@
+D:\EKOODI\CaNumber\CaNumber\bin\Debug\CaNumber.exe
+D:\EKOODI\CaNumber\CaNumber\bin\Debug\CaNumber.pdb
+D:\EKOODI\CaNumber\CaNumber\obj\x86\Debug\CaNumber.exe
+D:\EKOODI\CaNumber\CaNumber\obj\x86\Debug\CaNumber.pdb
